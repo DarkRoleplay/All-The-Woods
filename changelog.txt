@@ -1,0 +1,1 @@
+* Changed how Datapacks are registered, allowing experimental world gen features to work.
